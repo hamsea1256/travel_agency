@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(123, 123, 125);
+}
+h1 {
+    color: rgb(186, 46, 60);
+    background-color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    color: rgb(186, 46, 60);
+}
+
+body{
+    background-color: rgb(123, 123, 125);
+}
+header{
+    text-align: right;
+    background-color: white;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: rgb(54, 56, 196);
+    font-size: 60px;
+}
+
+
+p {
+    color: black;
+}
+
+body{
+    background-color: rgb(123, 123, 125);
+}
+header{
+    text-align: right;
+    background-color: white;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
